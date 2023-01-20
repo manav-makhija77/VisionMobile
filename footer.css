@@ -1,0 +1,55 @@
+.footerdiv{
+    height: 200px;
+    width: 1340px;
+    background-color: black;
+    border-radius: 10px;
+    margin: 20px 0 0 0;
+}
+.footerdiv h1{
+    color: gold;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 15px 0 0 50px;
+
+}
+.footerdiv p{
+    color: yellow;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0 0 0 50px;
+}
+.footerdiv a{
+    color: bisque;
+
+}
+#footerdiv2   a:hover{
+ background-color: white;
+ color: black; 
+}
+
+.footerdiv1{
+    height: 200px;
+    width: 350px;
+    margin: 0px 0 0 950px;
+    /* background-color: gold; */
+}
+.footerdiv1 ul{
+list-style: none;
+padding: 5 0 0 0;
+}
+.footerdiv1 ul li a{
+    color: yellow;
+    font-size: 28px;
+    font-family:  -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 0 0 0 95px;
+    transition: all .1s ease-in-out;
+}
+.footerdiv1 ul li a:hover{
+    color: khaki;
+    
+
+}
+#footerdiv2{
+    display: inline-block;
+    margin: -210 0 0 0;
+}

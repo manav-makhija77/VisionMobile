@@ -1,0 +1,32 @@
+.menu{
+    height: 40px;
+    width: 100%;
+    border-radius: 5px;
+    
+}
+
+#i{
+    background-color: yellowgreen;
+}
+
+.menu ul {
+    list-style: none;
+}
+
+.menu ul li a{
+    display: block;
+    float: left;
+    text-decoration: none;
+    width: 200px;
+    font-size: 32px;
+    color: yellow;
+    padding: 20px 0 0 53px;
+    transition: all .5s ease-in-out;
+    
+}
+.menu ul li a:hover{
+    color: white; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    
+}

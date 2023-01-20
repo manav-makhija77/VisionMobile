@@ -1,0 +1,28 @@
+.main{
+    height: 1260px;
+    width: 1340px;
+    margin: auto;
+    /* background-color: gold; */
+
+}
+
+.slider{
+    height: 770px;
+    width: 1340px;
+    /* background-color: green; */
+    margin: 15px 0 0 0;
+    
+    border-radius: 10px;
+
+}
+
+#div2{
+    font-size: 50px;
+    color: #ffff00;
+    font-family: 'Merriweather', serif;
+    padding:38px 0 0 115px;
+    -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+  
+
+}

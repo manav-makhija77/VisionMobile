@@ -1,0 +1,43 @@
+.aboutus{
+height: 656px;
+width: 1340px;
+background-image: url(background.jpg);
+border-radius: 15px;
+background-repeat: no-repeat;
+background-size: cover;
+margin: 20px 0 0 0;
+}
+
+.aboutus h1{
+    font-size: 45px;
+    color:  #ffffff;
+    text-shadow: 5px 5px 5px black;
+   padding: 25px 0 0 175px;
+}
+
+.aboutus h2{
+    font-size: 45px;
+    color: white;
+    text-shadow: 8px 8px 8px black;
+    padding: 0px 0 0 175px;
+    
+    
+}
+
+.para{
+    height: 300px;
+    width: 1100px;
+    margin: auto;
+    color: whitesmoke;
+}
+
+.aboutus p{
+    font-size: 30px;
+    color:  rgb(255, 249, 164);
+    padding: 0 0 0 50px;
+}
+.aboutus img{
+height: 70px;
+width: 70px;
+padding: 0 0 0 20px;
+}
